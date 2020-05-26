@@ -9,5 +9,6 @@
 #define USART2_H_
 
 
+void MX_USART2_UART_Init(void);
 
 #endif /* USART2_H_ */
